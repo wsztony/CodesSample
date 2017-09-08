@@ -1,5 +1,7 @@
 /**
  * Created by Tony Wang as Codes Examples.
+ * Show this js doc as codes example, which is my small project for a web flight battle games
+ * I know the basic game theories and functions even using javascripts to finish it
  */
 
 
