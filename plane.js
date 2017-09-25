@@ -5,7 +5,7 @@
  */
 
 
-function dlImg(img) { // 返回一个img对象
+function dlImg(img) { // 返回一个img对象dfdfdfdfdfdfd
     var oimg = new Image();
     oimg.src = 'images/' + img;
     return oimg;
